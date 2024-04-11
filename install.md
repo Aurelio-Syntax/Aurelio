@@ -26,7 +26,7 @@ Settings what include Language Changer (de, en), passwort changing, logout and a
 ### Preview Screens of the App ###
 
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork2.PNG){:class="img-fluid"}
+![Devlopr Jekyll Repo](/assets/img/ohnerahmen.PNG){:class="img-fluid"}
 
 
 
