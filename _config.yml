@@ -1,9 +1,9 @@
 title: Junior App Developer
-subtitle:
+subtitle: Portfolio from Aurelio1988
 description: >- # this means to ignore newlines until "baseurl:"
   Im an Junior App Developer from Germany who made Apps with great User Experience.
 
-url: "https://Aurelio-Syntax.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://aurelio1988.netlify.app" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -25,38 +25,73 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
+author: Aurelio
 author_bio: Hi, my name is Aurelio. Im an Junior App Developer from Germany who made Apps with great User Experience :D
 author_email: "silvestriniaurelio@gmail.com"
 author_location: Germany
+author_website_url:
 typewrite-text: Im an Junior App Developer from Germany who made Apps with great User Experience. 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
+# Experiences
+author_work_experiences:
+            - company_name: Google
+              company_logo: google.png
+              company_url: https://google.com
+              designation: Software Engineer
+              description: Worked on various Google Products
+              visibility: true
+            - company_name: Microsoft
+              company_logo: microsoft.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
+              visibility: true
 
 # Education
 author_education_details:
-              - college_name: Syntax Institut
+              - college_logo:
+                college_name: Syntax Institut
                 college_url: https://www.syntax-institut.de/
+                college_degree: 
                 description: Junior App Developer
                 visibility: true
-                
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
+              - project_thumbnail: cozycare.png
                 project_title: Cozy Care - Mein Tag, Meine Gedanken
                 project_description: A Mental Health App with Meditation, Note, Calendar, Todo or inApp Changing Languages and Firebase Login
-                project_url: 
+                project_url: https://github.com/Aurelio-Syntax/Cozy-Care
                 visibility: true
-
+              - project_thumbnail: hack4r.PNG
+                project_title: Hack4r
+                project_description: A Platform built for Hackers and Penetration Testers
+                project_url: https://hack4r.com
+                visibility: false
 
 # social links
-github_username:  Aurelio-Syntax
+twitter_username: 
+github_username:  Aurelio
+facebook_username: 
 linkedin_username: 
+behance_username: 
 instagram_username: laslo_1988
+medium_username: 
+telegram_username: 
+dribbble_username: 
+flickr_username: 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
+# disqus_shortname: sujay-kundu
+hyvor_talk_website_id: 476
+
+# wakatime username (coding activity)
+wakatime_username: 
+
+# mailchimp embedded form url (newsletter):
+mailchimp_form_url: 
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
